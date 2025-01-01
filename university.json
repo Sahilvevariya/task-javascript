@@ -1,0 +1,18 @@
+{
+  "university": {
+    "departments": [
+      {
+        "id": "d1",
+        "name": "Computer Science",
+        "professors": [
+          { "id": "p1", "name": "Dr. Alice", "specialization": "AI" },
+          { "id": "p2", "name": "Dr. Bob", "specialization": "Networking" }
+        ],
+        "students": [
+          { "id": "s1", "name": "John Doe", "year": 2 },
+          { "id": "s2", "name": "Jane Smith", "year": 3 }
+        ]
+      }
+    ]
+  }
+}
